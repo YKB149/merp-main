@@ -8,7 +8,8 @@ import pytz
 import os
 import psutil
 import platform
-from discord.ui import Modal, TextInput, View	
+from discord.ui import Modal, TextInput, View
+from discord.ui import Select, View
         
 
 intents = discord.Intents.default()
